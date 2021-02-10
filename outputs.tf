@@ -8,5 +8,5 @@ output "catapp_ip" {
 }
 
 output "dummy" {
-  value = "I am connected"
+  value = "I am connected now?"
 }
