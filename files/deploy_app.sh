@@ -9,7 +9,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
+  <center><img src="${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Murray World!</h2></center>
   ${PREFIX} invites you to the wonderful world of Bill Murray!
   <!-- END -->
