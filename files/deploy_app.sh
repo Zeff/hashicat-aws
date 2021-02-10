@@ -4,14 +4,14 @@
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Meow!</title></head>
+  <head><title>Bill!</title></head>
   <body>
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
-  ${PREFIX} invites you to the wonderful world of kittens!
+  <center><h2>Murray World!</h2></center>
+  ${PREFIX} invites you to the wonderful world of Bill Murray!
   <!-- END -->
 
   </div>
